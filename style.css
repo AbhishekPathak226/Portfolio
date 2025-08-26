@@ -226,12 +226,12 @@ body{
 }
 
 /* ========== Custom Skill Images ========== */
-.csharp { background-image: url("../images/Csharp.jpg"); }
-.javascript { background-image: url("../images/jscr.png"); }
-.php { background-image: url("../images/tea.png"); }        
-.reactjs { background-image: url("../images/htm.png"); }   
-.bootstrap { background-image: url("../images/bootstrap-5-logo-icon.png"); }
-.sqlserver { background-image: url("../images/ms sql.jpg"); }
+.csharp { background-image: url("Csharp.jpg"); }
+.javascript { background-image: url("jscr.png"); }
+.php { background-image: url("tea.png"); }        
+.reactjs { background-image: url("htm.png"); }   
+.bootstrap { background-image: url("bootstrap-5-logo-icon.png"); }
+.sqlserver { background-image: url("ms sql.jpg"); }
 
 /* ========== Download CV Button ========== */
 .c-btn {
@@ -573,6 +573,7 @@ footer .link-group a:hover{
     color: #fff;
     animation: pulse 3s infinite;
 }
+
 
 
 
