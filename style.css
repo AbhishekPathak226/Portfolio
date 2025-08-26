@@ -181,6 +181,29 @@ body{
   line-height: 1.6;
   color: #555;
 }
+.skill .text-center small {
+  color: #6f34fe;
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.skill .text-center h3 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-top: 0.5rem;
+  color: #3f396d;
+}
+
+.skill .text-center p {
+  max-width: 700px;
+  margin: 10px auto 0;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #555;
+}
+
 
 /* ========== Circular Progress Card ========== */
 .progress-card {
@@ -573,6 +596,7 @@ footer .link-group a:hover{
     color: #fff;
     animation: pulse 3s infinite;
 }
+
 
 
 
